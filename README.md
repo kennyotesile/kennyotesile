@@ -1,4 +1,4 @@
-### Hi there 👋
+# I'm Kenny Otesile
 
 <!--
 **kennyotesile/kennyotesile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Kenny Otesile. I am a Software Engineer.<br />
+My speciality is **Backend Engineering** with the **Spring** framework. I am most interested in deep tech. I love fintech and media.
+
+### I Have Worked With:
+- HTML, CSS, ES 6+
+- Frontend libraries
+- Java, Spring
+- APIs
+- MySQL, and PostgreSQL
+(Will update as I work with more tools.)
+
+### I Have Played With:
+- PHP, C, C++, C# and VB
+
+### I Plan to Check Out:
+- SASS, SCSS, LESS
+- React JS, Next JS, Gatsby JS, Vue JS, Nuxt JS
+- React Native
+- Python, Go, Ruby, and Rust
+- Node JS, Rails, Express
+- Mongo DB
+...and more, existing and upcoming.
+
+### My Philosophy:
+- I believe in working with the tool that best gets the job done, rather than be attached to a single tool.
+- I believe in results. The goal of learning should be knowing; of knowing, doing; and of doing, results. I believe in substance over excitement.
+
+### Contact:
+Email: kennyotesile@gmail.com
