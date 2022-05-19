@@ -31,7 +31,7 @@ Hi, I'm Kenny Otesile. My speciality is **Backend Engineering** using **Java** a
 
 I have played with PHP, C, C++, C#, VB and visual design. I plan to check out CSS preprocessors, frontend frameworks, other backend frameworks, mobile/desktop/others, programming languages such as Python and Go, other database systems, and other dev tools.
 
-I earned a **B.Eng.** in **Electrical/Electronics Engineering** in **January, 2022.**
+I earned a **B.Eng.** in **Electrical/Electronics Engineering** in **2021.**
 
 ### My Philosophy:
 - I believe in being able to work with any tool that best gets the job done, rather than being attached to any single tool.
