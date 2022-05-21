@@ -17,28 +17,25 @@ Here are some ideas to get you started:
 
 Hi, I'm Kenny Otesile. My speciality is **Backend Engineering** using **Java** and the **Spring** framework.
 
-### My Java/Spring Expertise:
-- Java 8+
-- APIs such as JDBC, Jackson, JWT etc.
-- Spring Boot, Spring Web, Spring Data JDBC, etc.
-
-### I Also Work With:
-- MySQL, and PostgreSQL
-- Git
-- HTML, CSS, ES 6+
-- Frontend libraries
-- Other dev and productivity tools
-
-I have played with PHP, C, C++, C#, VB and visual design. I plan to check out CSS preprocessors, frontend frameworks, other backend frameworks, mobile/desktop/others, programming languages such as Python and Go, other database systems, and other dev tools.
+### My Expertise:
+- Java SE 8+
+- Java APIs (IO, NIO, JDBC, JPA, etc.)
+- Spring Frameworks (Spring Boot, Spring Web, Spring Data JDBC, etc.)
+- JavaScript (ES 6+)
+- JavaScript Libraries
+- MySQL, PostgreSQL
+- HTML, CSS
 
 I earned a **B.Eng.** in **Electrical/Electronics Engineering** in **2021.**
+
+I have played with PHP, C, C++, C#, VB and visual design. I plan to check out JavaScript framewoks, Web APIs, CSS preprocessors, other programming languages such as Python and Go, and other database systems.
 
 ### My Philosophy:
 - I believe in being able to work with any tool that best gets the job done, rather than being attached to any single tool.
 - I believe in results. The goal of learning should be knowing; of knowing, doing; and of doing, results. I believe in substance over excitement.
-- I believe in excellence by continually improving your work and paying attention to detail.
+- I believe in excellence by continually improving your work and paying attention to details.
 
 ### Contact:
 Email: kennyotesile@gmail.com
 
-⚡ Fun fact about me: Smart, and a fast learner, I believe there's nothing in software engineering, tech and the world at large beyond my ability to achieve.
+⚡ Fun fact about me: Smart and a fast learner, I believe there's nothing in software engineering, tech and the world at large beyond my ability to achieve.
