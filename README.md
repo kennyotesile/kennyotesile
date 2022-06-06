@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 Hi, I'm Kenny Otesile. My speciality is **Backend Engineering** using **Java** and the **Spring** framework.
 
 ### My Expertise:
-- Java SE 8+
+- Core Java
 - Java APIs (IO, NIO, JDBC, JPA, etc.)
-- Spring Frameworks (Spring Boot, Spring Web, Spring Data JDBC, etc.)
+- Spring Framework (Spring Boot, Spring Web, Spring Data JDBC, etc.)
 - JavaScript (ES 6+)
-- JavaScript Libraries
 - MySQL, PostgreSQL
 - HTML, CSS
+- Etc.
 
 I earned a **B.Eng.** in **Electrical/Electronics Engineering** in **2021.**
 
