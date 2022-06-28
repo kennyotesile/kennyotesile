@@ -23,7 +23,8 @@ Hi, I'm Kenny Otesile. My speciality is **Backend Engineering** using **Java** a
 - Spring Framework (Spring Boot, Spring Web, Spring Data JDBC, etc.)
 - JavaScript (ES 6+)
 - MySQL, PostgreSQL
-- HTML, CSS
+- Redis
+- HTML, CSS, Tailwind CSS, Materialize CSS
 - Etc.
 
 I earned a **B.Eng.** in **Electrical/Electronics Engineering** in **2021.**
