@@ -18,18 +18,15 @@ Here are some ideas to get you started:
 Hi, I'm Kenny Otesile. My speciality is **Backend Engineering** using **Java** and the **Spring** framework.
 
 ### My Expertise:
-- Core Java
-- Java APIs (IO, NIO, JDBC, JPA, etc.)
-- Spring Framework (Spring Boot, Spring Web, Spring Data JDBC, etc.)
-- JavaScript (ES 6+)
+- Core Java, Java APIs (IO, NIO, JDBC, JPA, etc.)
+- Spring (Spring Boot, Spring Web, Spring Data JPA, etc.)
 - MySQL, PostgreSQL
-- Redis
-- HTML, CSS, Tailwind CSS, Materialize CSS
-- Etc.
+- Redis, Docker
+- JavaScript (ES 6+), HTML, CSS, Tailwind CSS, Materialize CSS
 
 I earned a **B.Eng.** in **Electrical/Electronics Engineering** in **2021.**
 
-I have played with PHP, C, C++, C#, VB and visual design. I plan to check out JavaScript framewoks, Web APIs, CSS preprocessors, other programming languages such as Python and Go, and other database systems.
+I have basic knowledge of PHP, C, C++, VB and design. I'm checking out JavaScript framewoks, Web APIs, CSS preprocessors, other programming languages such as Python and Go, and other database systems.
 
 ### My Philosophy:
 - I believe in being able to work with any tool that best gets the job done, rather than being attached to any single tool.
